@@ -1,1 +1,1 @@
-This is Java Project
+This is sample Java Project
